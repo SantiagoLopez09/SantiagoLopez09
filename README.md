@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 💬 Ask me about **html, css, js**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **santiagolopeza30@gmail.com**
 
